@@ -1,3 +1,9 @@
+# DEPRECATED
+
+You probably shouldn't use this package, use [the official SDK](https://developers.intercom.com/installing-intercom/docs/intercom-javascript) instead.
+
+---
+
 # Walkie-Talkie
 ### An interface for speaking to intercom.io API.
 
